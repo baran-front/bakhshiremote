@@ -1,0 +1,28 @@
+{
+  "name": "بخشی ریموت",
+  "apiUrl": "https://api.bakhshiremote.ir/api",
+  "apiHostname": "api.bakhshiremote.ir",
+  "apiBaseUrl": "https://api.bakhshiremote.ir",
+  "apiTenant": "root",
+  "apiToken": "",
+  "logoImg": {
+    "light": "/brands/bakhshi-remote/logo-light.png",
+    "dark": "/brands/bakhshi-remote/logo-dark.png"
+  },
+  "theme": {
+    "light": {
+      "background": "#FFFFFF",
+      "foreground": "#231F20",
+      "card": "#efefef",
+      "primary": "#AF0C0F",
+      "secondary": "#ffb282"
+    },
+    "dark": {
+      "background": "#231F20",
+      "foreground": "#FFFFFF",
+      "card": "#302b2c",
+      "primary": "#ff292c",
+      "secondary": "#ff7219"
+    }
+  }
+}
