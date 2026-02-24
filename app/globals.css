@@ -81,7 +81,7 @@
 }
 
 @utility card-thumbnail {
-  @apply w-full aspect-video;
+  @apply w-full aspect-square;
 
   border-radius: calc(var(--radius-2xl) - 0.75rem);
 }
